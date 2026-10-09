@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="2.png" alt="Sanjay Kumar - SDE Java Backend Developer Banner" width="100%">
+</p>
+ 
  <p align="center">
   <img src="https://github.com/21000032540sanjaykumar/21000032540sanjaykumar/blob/main/welcome%20to%20our22.png" alt="Sanjay Kumar Banner" width="100%"/>
 </p>
