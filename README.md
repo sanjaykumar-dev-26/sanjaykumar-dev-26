@@ -109,8 +109,8 @@ A learning project planned to explore Python, code analysis and AI-assisted docu
 
 ## 💻 Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/" target="_blank">
+<p>
+  <a href="https://leetcode.com/u/2100032540_sanjaykumar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/Sanjay_0_100" target="_blank">
