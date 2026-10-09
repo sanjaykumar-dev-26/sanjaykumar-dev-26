@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="2.png" alt="Sanjay Kumar - SDE Java Backend Developer Banner" width="100%">
+  <img src="banner.png" alt="Sanjay Kumar - SDE Java Backend Developer Banner" width="100%">
 </p>
  
- <p align="center">
-  <img src="https://github.com/21000032540sanjaykumar/21000032540sanjaykumar/blob/main/welcome%20to%20our22.png" alt="Sanjay Kumar Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">Software Engineer Trainee | Backend Development | Problem Solving</h3>
 
