@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="banner.png" alt="Sanjay Kumar - SDE Java Backend Developer Banner" width="100%">
 </p>
@@ -53,6 +52,14 @@
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="40"/></a>
   <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
 </p>
+
+## 🎯 Current Focus
+
+- ☕ Developing backend applications with Java and Spring Boot
+- 🔐 Understanding Spring Security, JWT and authentication flows
+- 🧩 Practicing DSA, Dynamic Programming, Trees and Graphs
+- 🗄️ Improving REST API development and PostgreSQL database design
+- 🚀 Building CareerOS_X incrementally
 
 ## 🚀 Featured Projects
 
@@ -133,4 +140,13 @@ A planned learning project to explore Python, code analysis and AI-assisted docu
     <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
   </a>
 </p>
-```
+
+---
+
+<p align="center">
+  <i>"Consistent learning. Meaningful projects. Better code every day."</i>
+</p>
+
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
