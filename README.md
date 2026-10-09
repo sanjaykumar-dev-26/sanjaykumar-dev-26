@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="banner.png" alt="Sanjay Kumar - SDE Java Backend Developer Banner" width="100%">
 </p>
