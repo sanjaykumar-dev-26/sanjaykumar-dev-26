@@ -96,19 +96,33 @@ A learning project planned to explore Python, code analysis and AI-assisted docu
   </a>
 </p>
 
-## 🌐 Connect With Me
+## ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sanjay-kumar-162361227/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://www.codechef.com/users/sanjayshade_40" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/></a>
-  <a href="https://codeforces.com/profile/Sanjay_0_100" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/></a>
-  <a href="https://www.hackerrank.com/sanjaykumarqwas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
-  <a href="https://www.hackerearth.com/@2100032540cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40"/></a>
-  <a href="https://instagram.com/_i_am_sanju_26" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/sanjay-kumar-162361227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_i_am_sanju_26" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
----
+## 💻 Coding Profiles
 
-<p align="center">
-  <i>Consistency. Problem-solving. Continuous improvement. 🚀</i>
+<p align="left">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/Sanjay_0_100" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/sanjayshade_40" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/sanjaykumarqwas" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.hackerearth.com/@2100032540cse" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  </a>
 </p>
